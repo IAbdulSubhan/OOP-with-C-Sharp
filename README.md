@@ -5,7 +5,7 @@ Definition: A blueprint for creating objects. It defines a data structure along 
 ## Object:
 
 Definition: An instance of a class. Objects are created based on the structure defined by a class and can interact with each other.
-##Encapsulation:
+## Encapsulation:
 
 Definition: Encapsulation is the bundling of data and methods that operate on that data within a single unit, known as a class.
 Purpose: It helps in hiding the internal implementation details and exposing only what is necessary.
